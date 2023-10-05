@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'rwcloud.ch',
+    description: 'Eigene KASM Regsitry.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://rewa81.github.io/kasm-registry/',
+    contactUrl: 'https://rewa81.github.io/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
